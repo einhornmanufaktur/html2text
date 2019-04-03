@@ -142,6 +142,7 @@ UNIFIABLE = {
     "uuml": "u",
     "lrm": "",
     "rlm": "",
+    "amp": "&"
 }
 
 # Format tables in HTML rather than Markdown syntax
